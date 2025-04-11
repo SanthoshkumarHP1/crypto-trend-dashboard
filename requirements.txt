@@ -1,0 +1,5 @@
+streamlit
+cryptocompare
+pandas
+matplotlib
+numpy
