@@ -30,47 +30,17 @@ This is an interactive Streamlit app that visualizes real-time cryptocurrency pr
 
 ---
 
-## ▶️ How to Run This App Locally
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/crypto-trend-dashboard.git
-cd crypto-trend-dashboard
-```
-
-2. **Create virtual environment (optional but recommended)**
-```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the Streamlit app**
-```bash
-streamlit run app.py
-```
-
----
-
-## 🌐 Live Demo (optional)
-You can deploy this on [Streamlit Cloud](https://share.streamlit.io/) or HuggingFace Spaces.
+## 🌐 Live Demo 
+Streamlit Cloud: [https://crypto-trend-dashboard-kvhudcx43xeeqmnenud2s2.streamlit.app]
 
 ---
 
 ## 📸 Screenshot
-![btc_dashboard_apr2025 (2)](https://github.com/user-attachments/assets/d4d366ff-9868-4e32-a8f1-033536a259cd)
+![Screenshot 2025-04-12 152540](https://github.com/user-attachments/assets/b90fb2e1-fc36-4bf8-a69e-6f8c4efc3342)
 
 
 ---
 
-## 📄 License
-MIT License. Free for personal and educational use.
-
----
 
 ## 🙋‍♂️ Author
 **Santhoshkumar H P**  
